@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./resgestaediviau01augugoog_0035.png"; bbox 0 0 3734 5517; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 448 1572 1232 1713">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 448 1572 1232 1713">
+     <span class='ocr_line' id='line_1_1' title="bbox 448 1572 1232 1713; baseline 0.005 -6"><span class='ocrx_word' id='word_1_1' title='bbox 448 1572 451 1577; x_wconf 57' lang='grc'>’</span> <span class='ocrx_word' id='word_1_2' title='bbox 491 1627 588 1708; x_wconf 76' lang='lat' dir='ltr'><strong>RES</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 616 1627 826 1709; x_wconf 75' lang='lat' dir='ltr'>GESTAE</span> <span class='ocrx_word' id='word_1_4' title='bbox 857 1629 975 1709; x_wconf 73' lang='lat' dir='ltr'><strong>mvl</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1001 1630 1232 1713; x_wconf 75' lang='lat' dir='ltr'>AvasTl</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 197 1848 1526 1923">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 197 1848 1526 1923">
+     <span class='ocr_line' id='line_1_2' title="bbox 197 1848 1526 1923; baseline 0.002 -17"><span class='ocrx_word' id='word_1_6' title='bbox 197 1848 345 1923; x_wconf 83' lang='lat' dir='ltr'><strong>QVIBVS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 369 1849 510 1910; x_wconf 82' lang='lat' dir='ltr'>ORBEM</span> <span class='ocrx_word' id='word_1_8' title='bbox 530 1849 761 1908; x_wconf 84' lang='lat' dir='ltr'><strong>TERRARVM</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 782 1849 955 1909; x_wconf 86' lang='lat' dir='ltr'>IMPERIO</span> <span class='ocrx_word' id='word_1_10' title='bbox 975 1850 1127 1910; x_wconf 91' lang='lat' dir='ltr'>POPVLI</span> <span class='ocrx_word' id='word_1_11' title='bbox 1150 1850 1317 1910; x_wconf 86' lang='lat' dir='ltr'><strong>ROMANI</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1337 1848 1526 1910; x_wconf 82' lang='lat' dir='ltr'>SVBIECIT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 672 2043 1044 2125">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 672 2043 1044 2125">
+     <span class='ocr_line' id='line_1_3' title="bbox 672 2043 1044 2125; baseline 0 -2"><span class='ocrx_word' id='word_1_13' title='bbox 672 2043 741 2123; x_wconf 84' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 773 2043 1044 2125; x_wconf 83' lang='lat' dir='ltr'>IMPENSAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 257 2261 1452 2338">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 257 2261 1452 2338">
+     <span class='ocr_line' id='line_1_4' title="bbox 257 2261 1452 2338; baseline -0.002 -16"><span class='ocrx_word' id='word_1_15' title='bbox 257 2263 364 2338; x_wconf 81' lang='lat' dir='ltr'><strong>QVAS</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 384 2264 431 2323; x_wconf 91' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 451 2264 538 2323; x_wconf 82' lang='lat' dir='ltr'><strong>REM</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 557 2263 768 2323; x_wconf 83' lang='lat' dir='ltr'>PVBLIOAM</span> <span class='ocrx_word' id='word_1_19' title='bbox 788 2262 1072 2338; x_wconf 81' lang='lat' dir='ltr'><strong>POPVLVMQVE</strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 1091 2262 1304 2322; x_wconf 86' lang='lat' dir='ltr'>ROMANVM</span> <span class='ocrx_word' id='word_1_21' title='bbox 1323 2261 1452 2321; x_wconf 81' lang='lat' dir='ltr'><strong>FECIT.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 637 2796 1079 2862">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 637 2796 1079 2862">
+     <span class='ocr_line' id='line_1_5' title="bbox 637 2796 1079 2862; baseline -0.005 -1"><span class='ocrx_word' id='word_1_22' title='bbox 637 2796 790 2861; x_wconf 82' lang='lat' dir='ltr'><strong>LATINE</strong></span> <span class='ocrx_word' id='word_1_23' title='bbox 828 2797 880 2861; x_wconf 83' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_24' title='bbox 916 2796 1079 2862; x_wconf 81' lang='lat' dir='ltr'><strong>GRAECE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 555 3117 1160 3192">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 555 3117 1160 3192">
+     <span class='ocr_line' id='line_1_6' title="bbox 555 3117 1160 3192; baseline 0.01 -7"><span class='ocrx_word' id='word_1_25' title='bbox 555 3117 657 3188; x_wconf 85' lang='lat' dir='ltr'><strong>CVM</strong></span> <span class='ocrx_word' id='word_1_26' title='bbox 684 3121 939 3189; x_wconf 84' lang='lat' dir='ltr'><strong>APPARATV</strong></span> <span class='ocrx_word' id='word_1_27' title='bbox 962 3121 1160 3192; x_wconf 83' lang='lat' dir='ltr'>CRITICO.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 0 0 1872 5517">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 0 0 1872 5517">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1872 5517; baseline 0 0"><span class='ocrx_word' id='word_1_28' title='bbox 0 0 1872 5517; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
